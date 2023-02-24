@@ -1,15 +1,8 @@
 top bun
 
-lettice
-
-tomato
-
-
-Lettuce
-
-Cheese
-
-
+mayo
+tomato sauce
+mustard gas
 
 
 
