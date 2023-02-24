@@ -1,6 +1,6 @@
 top bun
 
-lettice
+lettuce
 
 tomato
 
@@ -12,11 +12,6 @@ Swiss cheese
 
 Cheese
 
-
-
-
-
-
+onions
 
 bottom bun
-
