@@ -3,6 +3,10 @@ Lettuce
 
 Cheese
 
+mayo
+tomato sauce
+mustard gas
+
 lettuce
 
 tomato
