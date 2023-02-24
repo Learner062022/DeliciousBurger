@@ -1,7 +1,14 @@
 top bun
+
+lettice
+
+tomato
+
+
 Lettuce
 
 Cheese
+
 
 
 
